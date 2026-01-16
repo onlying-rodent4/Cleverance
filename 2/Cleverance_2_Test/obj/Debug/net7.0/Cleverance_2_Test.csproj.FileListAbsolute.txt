@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Cleverance_2_Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\User\source\repos\Cleverance_2_Test\obj\Debug\net7.0\Cleverance_2_Test.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cleverance_2_Test\obj\Debug\net7.0\Cleverance_2_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cleverance_2_Test\obj\Debug\net7.0\Cleverance_2_Test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cleverance_2_Test\obj\Debug\net7.0\Cleverance_2_Test.AssemblyInfo.cs
+C:\Users\User\source\repos\Cleverance_2_Test\obj\Debug\net7.0\Cleverance_2_Test.csproj.CoreCompileInputs.cache

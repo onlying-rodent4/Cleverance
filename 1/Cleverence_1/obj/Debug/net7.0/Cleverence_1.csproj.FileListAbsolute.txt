@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Cleverence_1\bin\Debug\net7.0\Cleverence_1.exe
+C:\Users\User\source\repos\Cleverence_1\bin\Debug\net7.0\Cleverence_1.deps.json
+C:\Users\User\source\repos\Cleverence_1\bin\Debug\net7.0\Cleverence_1.runtimeconfig.json
+C:\Users\User\source\repos\Cleverence_1\bin\Debug\net7.0\Cleverence_1.dll
+C:\Users\User\source\repos\Cleverence_1\bin\Debug\net7.0\Cleverence_1.pdb
+C:\Users\User\source\repos\Cleverence_1\obj\Debug\net7.0\Cleverence_1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cleverence_1\obj\Debug\net7.0\Cleverence_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cleverence_1\obj\Debug\net7.0\Cleverence_1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cleverence_1\obj\Debug\net7.0\Cleverence_1.AssemblyInfo.cs
+C:\Users\User\source\repos\Cleverence_1\obj\Debug\net7.0\Cleverence_1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cleverence_1\obj\Debug\net7.0\Cleverence_1.dll
+C:\Users\User\source\repos\Cleverence_1\obj\Debug\net7.0\refint\Cleverence_1.dll
+C:\Users\User\source\repos\Cleverence_1\obj\Debug\net7.0\Cleverence_1.pdb
+C:\Users\User\source\repos\Cleverence_1\obj\Debug\net7.0\Cleverence_1.genruntimeconfig.cache
+C:\Users\User\source\repos\Cleverence_1\obj\Debug\net7.0\ref\Cleverence_1.dll
